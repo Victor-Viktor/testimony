@@ -22,7 +22,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: _Add your Frontend Mentor solution link here_
+- Solution URL: [Live solution](https://www.frontendmentor.io/solutions/responsive-grid-testimony-9M1Lcz8HGJ)
 - Live Site URL: [LIVE URL](https://victor-viktor.github.io/testimony/)
 
 ---
